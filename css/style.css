@@ -43,11 +43,11 @@ text-align: center;
 padding: 0.5rem 0;
 }
 
-.menu a{color: #ffff99;
+.menu a{color: #ffffff;
 text-decoration: none;
 font-family: "Tahoma";}
 
-.menu a:hover{color: #cccc00}
+.menu a:hover{text-decoration: underline;}
 
 h1{margin: 1.5rem;    
 color: #cc3300;
@@ -88,7 +88,7 @@ margin: 1rem;
 footer{padding: 0.5rem;
 background: #cc3300;
 font-family: "Tahoma";
-color: #ffff99;
+color: #e8cf8b;
 }
 
 #map_image_small {
