@@ -1,6 +1,6 @@
 <?php
 define('ISITSAFETORUN', TRUE);
-define("TITLE", "About us | Haute Vue");
+define("TITLE", "About us | CS Pets");
 include('includes/header.php');
 $valid   = TRUE; 
 ?>
