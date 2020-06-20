@@ -18,10 +18,10 @@ $valid   = TRUE;
       <section>
       <h1>What we offer:</h1>
             <ul>
-            <li>At least one night to look after your pet (negotiable).</li> 
-            <li>As many meals as your pet needs.</li> 
-            <li>Exercise for your pet.</li> 
-            <li>A warm and safe environment.</li>
+            <li>At least one night to look after your pet (negotiable)</li> 
+            <li>As many meals as your pet needs</li> 
+            <li>Exercise for your pet</li> 
+            <li>A warm and safe environment</li>
             </ul>
       <hr>    
       </section>
