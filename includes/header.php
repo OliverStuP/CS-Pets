@@ -9,7 +9,7 @@ if(!defined('ISITSAFETORUN')) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Oliver Page, Alisdair Page" />
+    <meta name="author" content="Oliver StuP, Alisdair CP" />
     <title><?php echo TITLE; ?></title>
     <link rel="stylesheet" href="css/style.css">
     <script src="js/scripts.js"></script>
@@ -17,7 +17,7 @@ if(!defined('ISITSAFETORUN')) {
 <body>
     <div class="container"> 
     <header> 
-       <a class="link-title" href="./index.php">Haute Vue</a>
+       <a class="link-title" href="./index.php">CS Pets</a>
     </header>
     <nav class="menu"> <!--Class name for the navigation menu--> 
             <?php include('includes/nav.php'); ?>
