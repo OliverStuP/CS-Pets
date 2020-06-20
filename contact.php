@@ -1,6 +1,6 @@
 <?php
 define('ISITSAFETORUN', TRUE);
-define("TITLE", "Contact | Haute Vue");
+define("TITLE", "Contact | CS Pets");
 include('includes/header.php');
 $valid   = TRUE; 
 ?>
@@ -35,9 +35,8 @@ $valid   = TRUE;
               </section>
               
               <section>
-               <p>Your emails will be sent to hautevuecostes@gmail.com. Feel free to ask about bookings, package deals or any other relevant topics. Please specify what it is you want to write about in the subject field.</p>
-               
-               <p>We promise to respond to queries as soon as possible. Please allow for up to two working days for us to answer your questions.</p>
+               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam volutpat tellus euismod convallis feugiat. Curabitur at diam euismod, convallis est id, aliquet enim. Duis porta malesuada nisi sed sollicitudin. Maecenas ut neque et elit fermentum dapibus. Ut ligula orci, euismod volutpat fermentum vel, lacinia ut metus. Donec ultrices sapien mollis, efficitur diam at, fermentum lacus. Duis vehicula dolor consequat scelerisque vestibulum. Proin sit amet odio sit amet mauris pharetra cursus at at sem. Duis eget pharetra sapien. Nunc quis efficitur felis, vel dictum magna. Curabitur sagittis libero vitae vehicula sagittis. In porta tellus nec mi elementum gravida. In gravida nibh eu porttitor mollis. Etiam accumsan tincidunt urna at commodo. Quisque vestibulum odio fermentum velit vulputate ullamcorper. Proin tincidunt pharetra accumsan. 
+</p>
                </section>
     </main>
 <?php
