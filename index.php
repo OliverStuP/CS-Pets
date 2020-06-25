@@ -11,9 +11,10 @@ $valid   = TRUE;
           <img src='images/index1-1440.jpg' alt="home image">
           <!-- Photoshop images so different sizes are available for different screen sizes -->
       </picture>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu erat turpis. Duis tincidunt facilisis facilisis. Morbi consequat fermentum hendrerit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin tincidunt urna est, at pharetra neque tincidunt vitae. Integer eget enim laoreet, suscipit elit sit amet, accumsan neque. Phasellus a pretium nisi, a lobortis lectus. Quisque dignissim sagittis risus vitae vulputate. Fusce velit eros, mattis ut vulputate vel, gravida eu lorem. Proin interdum consectetur libero nec dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sollicitudin, enim nec viverra congue, sem eros pretium justo, at fringilla nulla orci non felis. Aenean quam metus, ornare et magna ac, molestie consectetur ex. Curabitur lobortis libero vel lorem ultricies viverra.</p>
-      <hr>
-      </section>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu erat turpis. Duis tincidunt facilisis facilisis. Morbi consequat fermentum hendrerit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin tincidunt urna est, at pharetra neque tincidunt vitae. Integer eget enim laoreet, suscipit elit sit amet, accumsan neque.</p>
+      <p>Phasellus a pretium nisi, a lobortis lectus. Quisque dignissim sagittis risus vitae vulputate. Fusce velit eros, mattis ut vulputate vel, gravida eu lorem. Proin interdum consectetur libero nec dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sollicitudin, enim nec viverra congue, sem eros pretium justo, at fringilla nulla orci non felis. Aenean quam metus, ornare et magna ac, molestie consectetur ex. Curabitur lobortis libero vel lorem ultricies viverra.</p>
+        <hr>
+        </section>
       
       <section>
       <h1>What we offer:</h1>
@@ -28,10 +29,10 @@ $valid   = TRUE;
       
       <section>
       <h1>What we're about:</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin suscipit nibh neque, quis dignissim est convallis in. Donec at blandit ligula. Etiam cursus orci a mi vulputate varius. Nam lacinia, nulla aliquam tristique blandit, sapien lacus volutpat tellus, ut mattis nunc nibh in leo. Nam laoreet dignissim magna, et convallis tortor sagittis id. Aliquam eget risus at nunc posuere molestie. Ut accumsan rhoncus semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla placerat vestibulum massa, eget consectetur tortor laoreet non.
-Duis finibus erat nulla, et viverra lacus accumsan viverra. Nunc volutpat facilisis nisi mollis pretium. Duis non nunc blandit, dignissim metus id, accumsan arcu. Ut aliquet consequat ligula, eget facilisis leo finibus posuere. Etiam at luctus justo. Sed ultricies orci vel ultricies malesuada. Donec eleifend consequat eleifend. Cras fringilla ex ac mi laoreet imperdiet. Praesent eu orci ut velit faucibus vulputate vel in felis. Suspendisse luctus pellentesque magna. Aliquam erat volutpat. Duis ut orci dignissim, accumsan metus a, maximus est. Cras iaculis rutrum lacinia. Maecenas fringilla nibh nulla, sed aliquam augue tincidunt quis. Sed nec eros eget nulla sollicitudin aliquam id sit amet libero.</p>
-      <hr> 
-      </section>
+       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin suscipit nibh neque, quis dignissim est convallis in. Donec at blandit ligula. Etiam cursus orci a mi vulputate varius. Nam lacinia, nulla aliquam tristique blandit, sapien lacus volutpat tellus, ut mattis nunc nibh in leo. Nam laoreet dignissim magna, et convallis tortor sagittis id. Aliquam eget risus at nunc posuere molestie. Ut accumsan rhoncus semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla placerat vestibulum massa, eget consectetur tortor laoreet non.</p>
+<p>Duis finibus erat nulla, et viverra lacus accumsan viverra. Nunc volutpat facilisis nisi mollis pretium. Duis non nunc blandit, dignissim metus id, accumsan arcu. Ut aliquet consequat ligula, eget facilisis leo finibus posuere. Etiam at luctus justo. Sed ultricies orci vel ultricies malesuada. Donec eleifend consequat eleifend. Cras fringilla ex ac mi laoreet imperdiet. Praesent eu orci ut velit faucibus vulputate vel in felis. Suspendisse luctus pellentesque magna. Aliquam erat volutpat. Duis ut orci dignissim, accumsan metus a, maximus est. Cras iaculis rutrum lacinia. Maecenas fringilla nibh nulla, sed aliquam augue tincidunt quis. Sed nec eros eget nulla sollicitudin aliquam id sit amet libero.</p>
+      <hr>
+        </section>
       
       <section>
       <h1>When we're available:</h1>
