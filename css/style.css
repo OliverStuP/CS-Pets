@@ -11,13 +11,15 @@ margin-right: auto;
 }
 
 main{margin: auto;
-padding: 0;
+padding-left: 2rem;
+padding-right: 2rem;
 color: black;
 font-family: "Tahoma";
 font-size: 15px;    
 line-height: 19px;
 text-align: center;
 }
+
 
 ul {
 list-style-position: inside;
@@ -32,9 +34,9 @@ background: white;
 font-family: "Tahoma";}
 
 
-.link-title{margin: 17.5rem;    
+.link-title{margin: 20rem;    
 text-decoration: none;
-font-size: 45px;
+font-size: 70px;
 font-weight: bold;
 color: #cc3300;}
 
@@ -88,7 +90,8 @@ margin: 1rem;
 footer{padding: 0.5rem;
 background: #cc3300;
 font-family: "Tahoma";
-color: #e8cf8b;
+color: #ffffff;
+text-align: center;
 }
 
 #map_image_small {
@@ -129,24 +132,12 @@ resize: both;}
 article #submit{background: #cc3300;
 height: 25px;}
 
-#green-room{margin: 1.5rem;    
-color: #cc3300;
-font-family: "AucoinExtBol Regular";
-font-weight: bold;
-font-size: 2rem;}
-
-#blue-room{margin: 1.5rem;    
-color: #33ccff;
-font-family: "AucoinExtBol Regular";
-font-weight: bold;
-font-size: 2rem;}
-
 .p_link{text-decoration: none;}
 
 @media screen and (max-width: 70rem) {
 .container{width:45rem;
 }
-.link-title{margin: 15.5rem;    
+.link-title{margin: 17.5rem;    
 }
 
 }
@@ -155,8 +146,14 @@ font-size: 2rem;}
 @media screen and (max-width: 30rem) {
 .container{width:25rem;
 }
-.link-title{margin: 5.5rem;   
+.link-title{margin: 7.5rem;   
 }
+.menu{
+line-height: 2rem;
+}	
+footer{
+line-height: 2rem;
+}	
 #map_image {
 display:none;
 }	
