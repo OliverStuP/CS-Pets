@@ -130,7 +130,9 @@ resize: both;}
 
 
 article #submit{background: #cc3300;
-height: 25px;}
+height: 25px;
+color: #ffffff;
+}
 
 .p_link{text-decoration: none;}
 
@@ -160,12 +162,15 @@ display:none;
 #map_image_small {
 display: inline-block;
 }
+#conmessage{
+width: 90%;
+}	
 }
 
 @media screen and (max-width: 25rem) {
 .container{width:22rem;
 }
-.link-title{margin: 3.5rem;   
+.link-title{margin: 6rem;   
 }
 #conmessage{
 width: 90%;
@@ -175,7 +180,9 @@ width: 90%;
 @media screen and (max-width: 20rem) {
 .container{width:18rem;
 }
-.link-title{margin: 1.5rem;   
+.link-title{margin: 4rem;   
 }
-
+input{
+width: 90%;
+}
 }
