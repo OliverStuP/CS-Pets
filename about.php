@@ -27,7 +27,9 @@ Nam ullamcorper, sem auctor rhoncus congue, odio metus sollicitudin ex, venenati
         
         <section>
       <h1>Policies:</h1>
-      <img src='images/pexels-photo-257540.jpeg' class='home-image'>
+            <picture class='home-image'>
+      <img src='images/pexels-photo-257540.jpeg'>
+            </picture>
 <ul>
         <li>Suspendisse potenti. Interdum et malesuada fames ac ante ipsum primis in faucibus. In nec nisi a libero interdum fringilla. Nunc iaculis arcu at pellentesque suscipit. Fusce rutrum dapibus orci nec fermentum. Pellentesque imperdiet elit at urna scelerisque, et ultricies turpis vestibulum. Sed mattis facilisis dictum. Etiam egestas nisl in tincidunt ultrices. Cras id eros ut orci porta scelerisque id id metus. Donec a auctor nisi. Vivamus tempus orci vel orci bibendum volutpat.
 </li>
