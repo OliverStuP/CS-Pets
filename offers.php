@@ -7,6 +7,9 @@ $valid   = TRUE;
 <main>
      <section>
       <h1>Deal 1:</h1>
+          <picture class='portrait-image'>
+               <img src='images/pexels-photo-326012.jpeg'>
+          </picture>
       <p>Duis magna orci, condimentum eget bibendum vel, sagittis nec sem. Integer at commodo ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam facilisis scelerisque enim, a blandit orci pulvinar non. Quisque porttitor tempor elementum. Nunc luctus ornare libero sit amet euismod. Sed laoreet, mauris eget euismod pharetra, ipsum est laoreet erat, ut malesuada elit nulla vitae lacus. Nulla facilisi. Etiam euismod, ipsum pellentesque cursus faucibus, sapien metus viverra augue, sed vehicula est massa quis ligula. Proin lobortis nunc sit amet auctor tincidunt. Curabitur sagittis massa nec posuere imperdiet. Nam interdum quam sed lorem rutrum, sed varius ipsum viverra.</p>
 
 <p>Sed eu justo ac diam congue iaculis. Morbi tristique magna ac nisi condimentum vestibulum. Suspendisse condimentum faucibus tellus, ut consectetur eros viverra et. Vivamus at mauris vel urna interdum bibendum eget ut est. Aliquam luctus felis in nisi vestibulum consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet felis dolor. Maecenas sed sodales velit. Integer et gravida felis. Nulla eget odio tristique, volutpat enim ut, vulputate odio. Cras sit amet facilisis leo. Phasellus vitae felis sem. Vivamus pretium libero ante, in varius nulla varius a. Ut elementum lectus in leo mattis, in faucibus justo consequat. In ultrices odio vel tellus posuere, nec condimentum erat luctus. Donec ut eleifend sem, id interdum nisi.
