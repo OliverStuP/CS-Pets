@@ -113,11 +113,6 @@ float: left;}
 #about-page .description{clear: both;
 margin-top: 10px;}
 
-#sunset img{
-max-width: 60%;
-height: auto;
-}
-
 
 article {width: 60%;
     padding: 0 1rem 1rem 1rem;
@@ -164,6 +159,9 @@ display: inline-block;
 }
 #conmessage{
 width: 90%;
+}
+article {width: 70%;
+line-height: 1.3rem;
 }	
 }
 
@@ -174,6 +172,8 @@ width: 90%;
 }
 #conmessage{
 width: 90%;
+}
+article {width: 80%;
 }	
 }
 
@@ -185,4 +185,8 @@ width: 90%;
 input{
 width: 90%;
 }
+article {width: 90%;
+}
+h1{margin: 1rem;
+}	
 }
