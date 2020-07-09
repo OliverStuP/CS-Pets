@@ -105,26 +105,11 @@ display: none;
 font-size: 14px;}
 
 
-#about-page #homepic img{width: 35%;
-float: left;}
-
-#about-page #profile-info{width: 60%;
-    margin: 5px;
-    float: right;}
-
-
-#about-page .description{clear: both;
-margin-top: 10px;}
-
-
 article {width: 60%;
     padding: 0 1rem 1rem 1rem;
 	margin: auto;
     border: 3px solid black;
     border-radius: 4px;}
-
-textarea{
-resize: both;}
 
 
 article #submit{background: #cc3300;
