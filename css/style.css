@@ -1,0 +1,184 @@
+header{
+ font-family: "Gabriola Regular";
+}
+
+
+
+body{background: #e8cf8b;
+max-width: 90rem;
+margin-left: auto;
+margin-right: auto;
+}
+
+main{margin: auto;
+padding-left: 2rem;
+padding-right: 2rem;
+color: black;
+font-family: "Tahoma";
+font-size: 15px;    
+text-align: center;
+}
+
+section{
+line-height: 1.3rem;
+}	
+
+
+ul {
+list-style-position: inside;
+margin: 0;
+padding: 0;
+}
+
+
+.container{width:50rem;
+margin: auto;
+background: white;
+font-family: "Tahoma";}
+
+
+.link-title{margin: 20rem;    
+text-decoration: none;
+font-size: 70px;
+font-weight: bold;
+color: #cc3300;}
+
+.menu{background: #cc3300;
+text-align: center;    
+padding: 0.5rem 0;
+}
+
+.menu a{color: #ffffff;
+text-decoration: none;
+font-family: "Tahoma";}
+
+.menu a:hover{text-decoration: underline;}
+
+h1{margin: 1.5rem;    
+color: #cc3300;
+font-family: "Tahoma";
+font-weight: bold;
+font-size: 1.5rem;
+line-height: 2rem
+}
+
+
+h2{color: #cc3300;
+margin: 20px 0 5px 0;}
+
+h3{color: #cc3300;
+margin: 1.5rem; 
+text-decoration: underline;
+font-size: 1.2rem;}
+
+
+.main a:hover{color: #808080;}
+
+
+.home-image img{
+max-width: 80%;
+height: auto;
+}
+
+
+.portrait-image img{
+width: 40%;
+height: 40%;
+} 
+
+figcaption {
+margin: 1rem;
+}	
+
+footer{padding: 0.5rem;
+background: #cc3300;
+font-family: "Tahoma";
+color: #ffffff;
+text-align: center;
+}
+
+#map_image_small {
+display: none;
+}
+
+.separator{color:#c18ff0;
+font-size: 14px;}
+
+
+article {width: 60%;
+    padding: 0 1rem 1rem 1rem;
+	margin: auto;
+    border: 3px solid black;
+    border-radius: 4px;}
+
+
+article #submit{background: #cc3300;
+height: 25px;
+color: #ffffff;
+}
+
+.p_link{text-decoration: none;}
+
+
+@media screen and (max-width: 70rem) {
+.container{width:45rem;
+}
+.link-title{margin: 17.5rem;    
+}
+
+}
+
+
+@media screen and (max-width: 30rem) {
+.container{width:25rem;
+}
+.link-title{margin: 7.5rem;   
+}
+.menu{
+line-height: 2rem;
+}	
+footer{
+line-height: 2rem;
+}	
+#map_image {
+display:none;
+}	
+#map_image_small {
+display: inline-block;
+}
+#conmessage{
+width: 90%;
+}
+article {width: 70%;
+line-height: 1.3rem;
+}	
+}
+
+@media screen and (max-width: 25rem) {
+.container{width:22rem;
+}
+.link-title{margin: 6rem;   
+}
+#conmessage{
+width: 90%;
+}
+article {width: 80%;
+}	
+}
+
+@media screen and (max-width: 20rem) {
+.container{width:18rem;
+}
+.link-title{margin: 4rem;   
+}
+input{
+width: 90%;
+}
+article {width: 90%;
+}
+h1{margin: 1rem;
+}
+#map_image_small {
+width: 99%;
+}	
+}
